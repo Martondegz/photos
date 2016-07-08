@@ -1,5 +1,12 @@
 #button {
     float: right;
+    position: relative;
+    bottom: 50px
+}
+
+h1 {
+    position: relative;
+    bottom: 80px
 }
 
 .drop {
@@ -9,7 +16,8 @@
 #menu {
     width: 20%;
     display: block;
-    padding-top: 100px
+    padding-top: 100px;
+    background-color: cornflowerblue;
 }
 
 .icon {
@@ -21,17 +29,19 @@
 .icon,
 p {
     display: inline;
-    padding: 30px;
+    padding: 25px;
 }
 
-icon,
+.icon,
 i {
     display: block;
     margin-top: 20px;
 }
 
-.content {
-    margin-left: 200px;
-    position: relative;
-    bottom: 250px;
+￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ .wrapper {
+    float: left;
+}
+
+.drop {
+    margin-left: 65px;
 }
