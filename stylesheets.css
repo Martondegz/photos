@@ -1,47 +1,52 @@
-#button {
-    float: right;
-    position: relative;
-    bottom: 50px
-}
-
-h1 {
-    position: relative;
-    bottom: 80px
-}
-
-.drop {
-    padding-bottom: 30px;
-}
-
-#menu {
-    width: 20%;
-    display: block;
-    padding-top: 100px;
-    background-color: cornflowerblue;
-}
-
-.icon {
-    margin-top: 50px;
-    margin: 20px;
-    height: auto
-}
-
-.icon,
-p {
-    display: inline;
-    padding: 25px;
-}
-
-.icon,
-i {
-    display: block;
-    margin-top: 20px;
-}
-
-￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ .wrapper {
-    float: left;
-}
-
-.drop {
-    margin-left: 65px;
-}
+        #button {
+            float: right;
+        }
+        
+        h1 {
+            position: relative;
+            bottom: 80px
+        }
+        
+        #menu {
+            width: 15%;
+            display: block;
+            padding-top: 100px;
+            background-color: cornflowerblue;
+            height: 200%
+        }
+        
+        .icon {
+            margin-top: 50px;
+            margin: 20px;
+            height: auto
+        }
+        
+        .icon,
+        p {
+            display: inline;
+            padding: 25px;
+        }
+        
+        .icon,
+        i {
+            display: block;
+            margin-top: 20px;
+        }
+        
+        ￼ .drop {
+            margin-left: 20px;
+        }
+        
+        .columns {
+            position: relative;
+            bottom: 400px;
+        }
+        
+        .large-4 {
+            display: inline;
+        }
+        
+        .gallery {
+            float: right;
+            margin-left: 200px;
+        }
